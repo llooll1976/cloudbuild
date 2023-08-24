@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-     参仿https://github.com/sdf8057增加负载均衡自编译IPQ60xx设备的 OpenWrt 固件
+     在原作者 https://github.com/sdf8057 基础上增加负载均衡的 OpenWrt 固件
   </h1>
 <a href="/LICENSE">
     <img src="https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat">

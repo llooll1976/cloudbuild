@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-     在原作者 https://github.com/sdf8057 基础上增加负载均衡
+     在原作者 sdf8057 基础上集成负载均衡
   </h1>
 <a href="/LICENSE">
     <img src="https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat">
@@ -10,7 +10,7 @@
 <br>
 
 ## 固件特性：  
-在sdf8057原编译的基础上增加了mwan3
+感谢原作者，在sdf8057固件基础上增加了mwan3
   
 
 ## 集成插件列表

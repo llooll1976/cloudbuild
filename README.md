@@ -25,5 +25,5 @@ luci-app-cpufreq
 luci-app-ipsec-vpnd  
 luci-app-openvpn-server  
 luci-app-zerotier  
-luci-app-mwan3 
+luci-app-mwan3   
 luci-app-ttyd
